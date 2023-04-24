@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp4059913.jpg" alt="IPL Logo" height=200 width="400" style="border: 2px solid black;"/>
+  <img src="https://wallpapercave.com/wp/wp4059913.jpg" alt="IPL Logo" height=200 width="400" style="border: 10px solid black;"/>
 </div>
 
 The Indian Premier League (IPL) is a cricket tournament that attracts millions of fans and viewers. Predicting the outcome of an IPL match can be challenging due to the unpredictable nature of the game. This machine learning project uses the Python programming language and the logistic regression algorithm from the scikit-learn library to develop a model that predicts the winning probability of both teams in the second innings of IPL matches.
