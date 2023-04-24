@@ -31,19 +31,9 @@ def load_lottieurl(url: str):
     return r.json()
 
 
-lottie_coding = load_lottiefile("/home/anurag10/Downloads/59642-indian-premier-league-ipl.json")  # replace link to local lottie file
-lottie_hello = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_qddewysi.json")
+lottie_hello = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_6eeyigak.json")
 
-st_lottie(
-    lottie_coding,
-    speed=1,
-    reverse=False,
-    loop=True,
-    quality="high",  # medium ; high
-    height=200,
-    width=None,
-    key=None,
-)
+
 st_lottie(
     lottie_hello,
     speed=1,
