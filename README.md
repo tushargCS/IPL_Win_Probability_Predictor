@@ -6,7 +6,7 @@
   <img src="https://wallpapercave.com/wp/wp4059913.jpg" alt="IPL Logo" height=200 width="400" />
 </div>
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp4059913.jpg" alt="IPL Logo" style="border: 10px solid black;" height="200" width="400" />
+  <img src="https://wallpapercave.com/wp/wp4059913.jpg" alt="IPL Logo" style="border: 100px solid black;" height="200" width="400" />
 </p>
 
 
