@@ -31,5 +31,4 @@ To deploy the model, the Streamlit library is used to create a user-friendly web
 ## Conclusion
 
 This project showcases the power of machine learning in predicting the outcome of complex events such as IPL matches. By leveraging the capabilities of Python libraries, this project provides a robust and reliable solution for predicting the winning probability of both teams in the second innings of an IPL match.
-# kar
-# Final
+
