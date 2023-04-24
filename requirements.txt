@@ -3,3 +3,7 @@ Requests==2.28.2
 streamlit==1.21.0
 streamlit_lottie==0.0.3
 Pillow==9.2.0
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
